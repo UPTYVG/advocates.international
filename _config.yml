@@ -7,7 +7,8 @@ url: "https://advocates.international" # the base hostname & protocol for your s
 
 #twitter_username:
 #github_username:
-
+email:info@advocates.international
+phone: +1 631-480-2740
 
 # Build settings
 markdown: kramdown
