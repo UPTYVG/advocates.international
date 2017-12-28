@@ -1,6 +1,7 @@
 # Site settings
 title: Advocates International
 email: info@advocates.international
+phone: +1 631-480-2740
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://advocates.international" # the base hostname & protocol for your site
